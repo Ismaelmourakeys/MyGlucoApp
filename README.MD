@@ -41,7 +41,7 @@ O projeto tem como objetivo aplicar e evoluir conhecimentos em desenvolvimento m
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/UI_APP/login.jpeg" width="280">
+      <img src="assets/UI_APP/Login.jpeg" width="280">
       <br>
       Login
     </td>
