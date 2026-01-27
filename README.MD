@@ -1,84 +1,183 @@
-# MyGluco - Backlog / Daily
+<h1 align="center">
+📲 MyGluco<br> 
+(Aplicativo de Monitoramento Glicêmico)
+</h1>
 
-## 📌 To Do
+<p align="center">
+O MyGluco é uma aplicação mobile voltada ao monitoramento glicêmico, desenvolvida com foco em simplicidade e usabilidade. 
 
-- **Registro de dose de insulina**
-    [x] Adicionar lembretes para aplicação 
-    [x] Notificações automáticas (push) com horário + tipo de insulina
-    [x] Configuração semelhante a um despertador (repetição diária)
+O projeto tem como objetivo aplicar e evoluir conhecimentos em desenvolvimento mobile, organização de código e utilização de frameworks, servindo como uma base para futuras melhorias e novas funcionalidades.
+</p>
 
-- **HomeScreen.js**
-    [O] Substituir gráfico atual por card de novidades  
-    [O] Card deve ser fácil de atualizar para Dev **Talvez** 
+<div align="center">
+  <h3>🛠️ Tecnologias Utilizadas</h3>
 
-- **Menu hambúrguer → Editar Perfil**
-    [] Implementar upload de foto de perfil 
-    [] Foto será exibida em Índice Diário e possivelmente Glicemia 
-    
-- **Índice Diário**
-    [O] Mostrar histórico completo do cálculo de Mifflin 
-    [O] Adicionar gráfico da glicemia diária 
-    [O] Exibir outras métricas de saúde (a definir) 
-    [O] Exibir foto de perfil do usuário 
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="45" />
+        <br>React Native
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" />
+        <br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="45" />
+        <br>Node.js
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="45" />
+        <br>Firebase
+      </td>
+    </tr>
+  </table>
+</div>
 
-- **Aba "Glicemia"**
-    [F] Definir funcionamento 
-    [F] Avaliar se foto de perfil deve aparecer
-    [F] Decidir formato: gráfico, tabela ou registro manual
+<hr>
 
-- **Fazer Registro**
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    [x] Criar formulário de registro de glicemia, carboidratos e insulina 
-    [x] Conectar com Firebase para salvar os dados 
-    [o] Criar histórico de carboidratos 
-    [x] Navegação direta para Índice Diário após registro 
-    [o] Gráfico de consumo de carboidratos integrado ao Índice Diário 
-=======
-=======
->>>>>>> Stashed changes
-    [x] Criar formulário de registro de glicemia, carboidratos e insulina
-    [o] Conectar com Firebase para salvar os dados
-    [x] Criar histórico de carboidratos
-    [x] Navegação direta para Índice Diário após registro
-    [o] Gráfico de consumo de carboidratos integrado ao Índice Diário
->>>>>>> Stashed changes
+<h2 align="center">🖼️ Telas do aplicativo </h2>
 
-## 🚧 Doing / FAZENDO NESTE MOMENTO
-- [x] Integração inicial do Firebase para registro e histórico
-- [x] Criar formulário de registro de glicemia, carboidratos e insulina
-- [x] Conectar com Firebase para salvar os dados
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-- [O] Criar histórico de carboidratos 
-- [x] Navegação direta para Índice Diário após registro
-- [O] Gráfico de consumo de carboidratos integrado ao Índice Diário 
-=======
-- [x] Criar histórico de carboidratos
-- [x] Navegação direta para Índice Diário após registro
-- [O] Gráfico de consumo de carboidratos integrado ao Índice Diário
->>>>>>> Stashed changes
-=======
-- [x] Criar histórico de carboidratos
-- [x] Navegação direta para Índice Diário após registro
-- [O] Gráfico de consumo de carboidratos integrado ao Índice Diário
->>>>>>> Stashed changes
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/UI_APP/login.jpeg" width="280">
+      <br>
+      Login
+    </td>
+    <td align="center">
+      <img src="assets/UI_APP/IndiceScreen.jpeg" width="280">
+      <br>
+      Controle de Indices Alimentar
+    </td>
+    <td align="center">
+      <img src="assets/UI_APP/Glicemia.jpeg" width="280">
+      <br>
+      Gráfico para Controle Glicêmico
+    </td>
+    <td align="center">
+      <img src="assets/UI_APP/HomeScreen.jpeg" width="280">
+      <br>
+      Tela Principal
+    </td>
+  </tr>
+</table>
+
+<hr>
+<br>
+
+<div align="center">
+<h2>🏗️ Como o projeto foi construído </h2>
+<p>
+O MyGluco foi desenvolvido através de ídeias para projeto de Trabalho de Conclusão de Curso (TCC), com o objetivo de aplicar, na prática, os conhecimentos adquiridos ao longo da formação técnica, unindo teoria e desenvolvimento de uma solução funcional voltada à área da saúde.
+
+O principal objetivo do projeto é oferecer uma aplicação mobile capaz de auxiliar no monitoramento glicêmico, permitindo o registro e acompanhamento de informações de forma simples e acessível. A proposta surgiu a partir da necessidade de explorar soluções digitais que contribuam para o cuidado e a organização de dados relacionados à glicose, ao mesmo tempo em que servisse como um desafio técnico para o desenvolvimento dos integrantes.
+
+Para a construção da aplicação, optou-se pelo uso da linguagem **JavaScript** em conjunto com o **React Native**, devido à sua ampla utilização no mercado, facilidade de desenvolvimento multiplataforma e forte comunidade de suporte. Essa escolha permitiu o desenvolvimento de uma única base de código capaz de atender diferentes sistemas operacionais, otimizando tempo e aprendizado.
+
+Além disso, foram utilizadas ferramentas como **Node.js** e **Firebase**, que possibilitaram a criação de uma estrutura moderna para gerenciamento de dados e futuras expansões do projeto. O Firebase foi escolhido por sua praticidade na integração com aplicações mobile e por facilitar o armazenamento e autenticação de dados.
+
+Durante o desenvolvimento, foram aplicados conceitos fundamentais de lógica de programação, organização de componentes, estruturação de telas e integração entre frontend e serviços externos. O processo de aprendizado ocorreu de forma prática, por meio de pesquisas, testes, resolução de problemas reais e aplicação contínua dos conceitos estudados em sala de aula.
+
+Atualmente, o projeto segue em evolução, servindo como base para aprimoramentos técnicos, novas funcionalidades e aprofundamento no desenvolvimento de aplicações mobile.
+</p>
+</div>
+
+<hr>
+<br>
+
+<div align="center">
+  <h2> 🚀 Como executar o projeto </h2>
+
+  <h3>1. Clone o repositório</h3>
+  <p>
+    <code>git clone https://github.com/Ismaelmourakeys/MyGlucoApp.git</code>
+  </p>
+
+  <h3>2. Acesse a pasta do projeto</h3>
+  <p>
+    <code>cd MyGlucoApp</code>
+  </p>
+
+  <h3>3. Instale as dependências</h3>
+  <p>
+    <code>npm install</code><br>
+    <span>ou</span><br>
+    <code>yarn install</code>
+  </p>
+
+  <h3>4. Execute o projeto</h3>
+  <p>
+    <code>npx expo start</code><br>
+    <span>ou</span><br>
+    <code>npm start</code>
+  </p>
+
+  <h3>5. Visualize no dispositivo</h3>
+  <p>
+    Utilize o aplicativo <b>Expo Go</b> no celular<br>
+    ou um emulador Android/iOS.
+  </p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original-wordmark.svg" width="100"/>
+</div>
 
 
-## ✅ Done
-- [x] Layout inicial da HomeScreen
-- [x] Footer com navegação entre abas
-- [x] Carrossel de ações (Fazer Registro, Dose de Insulina, Índice Diário)
-- [x] Layout base da HomeScreen com carrossel e dicas
-- [x] Exibição de notícias & curiosidades
-- [x] Mini gráfico com histórico fictício de glicemia (PARA TESTE)
-- [x] Vídeos recomendados do YouTube
-- [x] ScrollView funcional e responsivo
-- [x] Menu lateral com opções de perfil e troca de conta
-- [x] Adicionar lembretes para aplicação 
-- [x] Notificações automáticas (push) com horário + tipo de insulina
-- [x] Configuração semelhante a um despertador (repetição diária)
+<hr>
+<br>
 
-F = Fazendo
-x = Concluído
-O = Precisa de atualização na screen
+<div align="center">
+  <h2>🔴 Possíveis problemas 🔴</h2>
+
+  <p>
+    Caso o projeto não execute corretamente, verifique as possíveis situações abaixo:
+  </p>
+
+  <p>
+    <code>Verifique se o Node.js está instalado corretamente</code>
+  </p>
+
+  <p>
+    <code>Confirme se as dependências foram instaladas <br>
+    (npm install ou yarn)</code>
+  </p>
+
+  <p>
+    <code>Verifique se o Expo CLI está instalado corretamente</code>
+  </p>
+
+  <p>
+    <code>Certifique-se de que está utilizando uma versão compatível do Node.js</code>
+  </p>
+
+  <p>
+    <code>Verifique se o emulador ou o Expo Go está funcionando corretamente</code>
+  </p>
+</div>
+
+
+<hr>
+
+
+### 📌 Aprendizados (Experiências adquiridas com esse sistema 📊)
+
+```md
+## 📚 Aprendizados
+
+- Criação de interfaces gráficas com React Native
+
+- Organização de telas e widgets
+
+- Estruturação de projetos e configuração de ambiente com Javascript
+
+
+## 👤 Autor
+
+Desenvolvido por 
+**Ismael Moura** 
+**Keven Romão** 
+**Kauã Souza** 
+**Carlos Henrique,** 
+**Matheus Fernandes**  
+
+🔗 [LinkedIn](www.linkedin.com/in/ismaelmourakeys) |  
+[GitHub](https://github.com/Ismaelmourakeys)
