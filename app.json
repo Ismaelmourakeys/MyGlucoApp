@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mygluco",
-    "slug": "mygluco",
+    "name": "MyGluco",
+    "slug": "appmygluco",
     "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/tugacriança.png",
@@ -45,7 +45,9 @@
           },
           "sound": "alarme.wav"
         }
-      ]
+      ],
+      "expo-audio",
+      "expo-video"
     ],
     "extra": {
       "eas": {

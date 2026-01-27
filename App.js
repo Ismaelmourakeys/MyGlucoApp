@@ -25,7 +25,7 @@ export default function App() {
 
 
   return (
-    // ✅ Envolvendo toda a navegação com o FavoritosProvider
+    // Envolvendo toda a navegação com o FavoritosProvider
 
     <NavigationContainer>
       <Stack.Navigator
