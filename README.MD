@@ -179,5 +179,4 @@ Desenvolvido por
 **Carlos Henrique,** 
 **Matheus Fernandes**  
 
-🔗 [LinkedIn](www.linkedin.com/in/ismaelmourakeys) |  
-[GitHub](https://github.com/Ismaelmourakeys)
+🔗 [LinkedIn](www.linkedin.com/in/ismaelmourakeys) | [GitHub](https://github.com/Ismaelmourakeys)
