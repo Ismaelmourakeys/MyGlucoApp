@@ -5,7 +5,6 @@
 
 <p align="center">
 O MyGluco é uma aplicação mobile voltada ao monitoramento glicêmico, desenvolvida com foco em simplicidade e usabilidade. 
-
 O aplicativo tem como objetivo conscientazar os usuários sobre a diabete e terem em mãos a possibilidade de uma vida mais saudável, oferecendo ao sistema algumas informações pessoais como idade, peso e altura, e podendo assim fazer o monitoramento alimentar com gráficos e recomendação de alimentos através dos dados de cada usuário.  
 </p>
 
