@@ -66,7 +66,7 @@ O aplicativo tem como objetivo conscientazar os usuários sobre a diabete e tere
 <br>
 
 
-## 🏗️ Como o projeto foi construído 
+<h3 align="center"> 🏗️ Como o projeto foi construído </h3>
 <p>
 O MyGluco foi desenvolvido através de ídeias para projeto de Trabalho de Conclusão de Curso (TCC), com o objetivo de aplicar, na prática, os conhecimentos adquiridos ao longo da formação técnica, unindo teoria e desenvolvimento de uma solução funcional voltada à área da saúde.
 
