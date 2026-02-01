@@ -5,8 +5,7 @@
 
 <p align="center">
 O MyGluco é uma aplicação mobile voltada ao monitoramento glicêmico, desenvolvida com foco em simplicidade e usabilidade. 
-
-O projeto tem como objetivo aplicar e evoluir conhecimentos em desenvolvimento mobile, organização de código e utilização de frameworks, servindo como uma base para futuras melhorias e novas funcionalidades.
+O aplicativo tem como objetivo conscientazar os usuários sobre a diabete e terem em mãos a possibilidade de uma vida mais saudável, oferecendo ao sistema algumas informações pessoais como idade, peso e altura, e podendo assim fazer o monitoramento alimentar com gráficos e recomendação de alimentos através dos dados de cada usuário.  
 </p>
 
 <div align="center">
@@ -65,6 +64,7 @@ O projeto tem como objetivo aplicar e evoluir conhecimentos em desenvolvimento m
 
 <hr>
 <br>
+
 
 <h2 align="center"> 🏗️ Como o projeto foi construído </h2>
 <p>
@@ -177,3 +177,4 @@ Desenvolvido por
 **Matheus Fernandes |**  
 
 🔗 [LinkedIn](www.linkedin.com/in/ismaelmourakeys) |  [GitHub](https://github.com/Ismaelmourakeys)
+
