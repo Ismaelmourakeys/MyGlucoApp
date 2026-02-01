@@ -66,8 +66,7 @@ O projeto tem como objetivo aplicar e evoluir conhecimentos em desenvolvimento m
 <hr>
 <br>
 
-<div align="center">
-<h2>🏗️ Como o projeto foi construído </h2>
+<h2 align="center"> 🏗️ Como o projeto foi construído </h2>
 <p>
 O MyGluco foi desenvolvido através de ídeias para projeto de Trabalho de Conclusão de Curso (TCC), com o objetivo de aplicar, na prática, os conhecimentos adquiridos ao longo da formação técnica, unindo teoria e desenvolvimento de uma solução funcional voltada à área da saúde.
 
@@ -81,7 +80,6 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais de lógica de 
 
 Atualmente, o projeto segue em evolução, servindo como base para aprimoramentos técnicos, novas funcionalidades e aprofundamento no desenvolvimento de aplicações mobile.
 </p>
-</div>
 
 <hr>
 <br>
@@ -158,9 +156,7 @@ Atualmente, o projeto segue em evolução, servindo como base para aprimoramento
 <hr>
 
 
-### 📌 Aprendizados (Experiências adquiridas com esse sistema 📊)
 
-```md
 ## 📚 Aprendizados
 
 - Criação de interfaces gráficas com React Native
@@ -173,11 +169,11 @@ Atualmente, o projeto segue em evolução, servindo como base para aprimoramento
 ## 👤 Autor
 
 Desenvolvido por 
-**Ismael Moura** 
-**Keven Romão** 
-**Kauã Souza** 
-**Carlos Henrique,** 
-**Matheus Fernandes**  
 
-🔗 [LinkedIn](www.linkedin.com/in/ismaelmourakeys) |  
-[GitHub](https://github.com/Ismaelmourakeys)
+**Ismael Moura |**
+**Keven Romão |** 
+**Kauã Souza |** 
+**Carlos Henrique |** 
+**Matheus Fernandes |**  
+
+🔗 [LinkedIn](www.linkedin.com/in/ismaelmourakeys) |  [GitHub](https://github.com/Ismaelmourakeys)
